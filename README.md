@@ -5,7 +5,6 @@ This project implements two classic pathfinding algorithms — Greedy Best-First
 ## Features
 - Greedy Best-First Search implementation
 - A* Search algorithm
-- Visualization of pathfinding steps using matplotlib
 
 ## How to Run
 
